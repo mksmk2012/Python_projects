@@ -79,9 +79,3 @@ Python, pandas, NumPy, Matplotlib, Seaborn, Google Colab.
 | `exploratory_data_analysis_online_store.ipynb` | Analysis notebook |
 | `README.md` | Project description |
 
-## Possible next steps
-
-- Compare categories by profit margin (`profit / revenue`), not only total profit.
-- Check whether the drop in 2017 is real or caused by incomplete data for that year.
-- Add statistical tests for differences between channels and countries.
-- Build an interactive dashboard from the aggregated tables.
